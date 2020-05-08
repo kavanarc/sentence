@@ -4,6 +4,6 @@ void main
 {
 char s[100];
 printf("enter the sentence\n");
-scanf("%[^\n]%*c",&s;
+scanf("%[^\n]%*c",&s);
 printf("%s",&s);
 }
